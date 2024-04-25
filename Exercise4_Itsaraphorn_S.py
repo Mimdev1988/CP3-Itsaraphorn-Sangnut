@@ -1,1 +1,9 @@
-
+FEScore = (88.54)
+GBScore = (78.66)
+ITCSScore = (78.32)
+CPScore = (98.14)
+print ("-----Your Score----")
+print("Foundation English:",FEScore)
+print("General Business:",GBScore)
+print("Introduction to Computer Systems:",ITCSScore)
+print("Computer Programing:",CPScore)
